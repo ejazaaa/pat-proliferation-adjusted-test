@@ -1,0 +1,7 @@
+python 3.12.3
+lifelines 0.30.3
+pandas 2.3.3
+numpy 2.4.4
+scipy 1.17.1
+scikit-survival 0.28.0
+matplotlib 3.10.8

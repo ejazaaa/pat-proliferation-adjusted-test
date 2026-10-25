@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use PAT, please cite the manuscript below."
+title: "PAT: the proliferation-adjusted test for candidate prognostic genes"
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given names]"
+    affiliation: "University of Michigan"
+version: 1.0.0
+date-released: "2026-10-25"
+license: MIT
